@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/216.b6788b8b.chunk.js","mappings":"2HAMA,UAJiB,WACf,OAAO,4DACT,C","sources":["components/NotFound/NotFound.js"],"sourcesContent":["import React from \"react\";\r\n\r\nconst NotFound = () => {\r\n  return <div>Please Make Sure From Your Path</div>;\r\n};\r\n\r\nexport default NotFound;\r\n"],"names":[],"sourceRoot":""}
