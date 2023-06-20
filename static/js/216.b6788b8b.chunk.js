@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkday=self.webpackChunkday||[]).push([[216],{216:function(e,u,a){a.r(u);a(3336);var r=a(1208);u.default=function(){return(0,r.jsx)("div",{children:"Please Make Sure From Your Path"})}}}]);
-//# sourceMappingURL=216.b6788b8b.chunk.js.map
